@@ -1,1 +1,2 @@
-# Modeling-and-Optimization-of-U.S.-Airport-Flight-Delay-Management-Using-DES-Model
+This project builds a discrete-event simulation (DES) model to analyze and optimize flight delay management at U.S. airports. Using SimPy, we simulate the inbound turnaround pipeline—from aircraft arrival, delay detection, gate assignment, crew service, to completion or exception handling.
+The model identifies bottlenecks, evaluates resource constraints, and compares operational scenarios to support airport decision-making.
